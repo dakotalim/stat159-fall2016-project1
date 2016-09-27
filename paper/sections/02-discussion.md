@@ -5,8 +5,8 @@ Next I will discuss in detail the uses and benefits of each of the programs prev
 
 ### Git/GitHub
 
-![GitLogo](images/git-logo.png)
-![GitHubLogo](images/github-logo.png)
+![GitLogo](https://raw.githubusercontent.com/dakotalim/stat159-fall2016-project1/master/images/git-logo.png)
+![GitHubLogo](https://raw.githubusercontent.com/dakotalim/stat159-fall2016-project1/master/images/github-logo.png)
 
 Git is one of the most commonly used version controll systems to date. The basic functionallity of Git can be summarized in the following commands:
 1. Add
@@ -24,13 +24,13 @@ Make allows uses to simplify the execution of code by listing the desired comman
 
 ### Markdown
 
-![MarkdownLogo](images/markdown-logo.png)
+![MarkdownLogo](https://raw.githubusercontent.com/dakotalim/stat159-fall2016-project1/master/images/markdown-logo.png)
 
 Markdown is a simple markup language. There is extensive documentation on Markdown syntax and style that can be found on the Markdown website. One of the benefits of Markdown is that it's very simple to learn. The tags are typically singe charachters and don't require much odd syntax, as opposed to markup languages like HTML which can have an elaborate tag system for relatively basic text.
 
 ### pandoc
 
-![pandocLogo](images/pandoc-logo.png)
+![pandocLogo](https://raw.githubusercontent.com/dakotalim/stat159-fall2016-project1/master/images/pandoc-logo.png)
 
 Pandoc is a simple document conversion program. For the purposes of this project I used pandoc to concatenate several Markdown scripts (the paper its self) and create an HTML version of our concatenated Markdown script. In terms of it's effect on the reproducibility of our paper, Pandoc can be run from the command line on any operating system and lets the user convert markup files from one language to another (i.e Markup to HTML) or whatever format is convenient. Pandoc gives the readers and authors added flexibility to present their documents in whatever format is most presentable.
 
