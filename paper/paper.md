@@ -14,8 +14,8 @@ Next I will discuss in detail the uses and benefits of each of the programs prev
 
 ### Git/GitHub
 
-![GitLogo](images/git-logo.png)
-![GitHubLogo](images/github-logo.png)
+![GitLogo](https://raw.githubusercontent.com/dakotalim/stat159-fall2016-project1/master/images/git-logo.png)
+![GitHubLogo](https://raw.githubusercontent.com/dakotalim/stat159-fall2016-project1/master/images/github-logo.png)
 
 Git is one of the most commonly used version controll systems to date. The basic functionallity of Git can be summarized in the following commands:
 1. Add
@@ -33,13 +33,13 @@ Make allows uses to simplify the execution of code by listing the desired comman
 
 ### Markdown
 
-![MarkdownLogo](images/markdown-logo.png)
+![MarkdownLogo](https://raw.githubusercontent.com/dakotalim/stat159-fall2016-project1/master/images/markdown-logo.png)
 
 Markdown is a simple markup language. There is extensive documentation on Markdown syntax and style that can be found on the Markdown website. One of the benefits of Markdown is that it's very simple to learn. The tags are typically singe charachters and don't require much odd syntax, as opposed to markup languages like HTML which can have an elaborate tag system for relatively basic text.
 
 ### pandoc
 
-![pandocLogo](images/pandoc-logo.png)
+![pandocLogo](https://raw.githubusercontent.com/dakotalim/stat159-fall2016-project1/master/images/pandoc-logo.png)
 
 Pandoc is a simple document conversion program. For the purposes of this project I used pandoc to concatenate several Markdown scripts (the paper its self) and create an HTML version of our concatenated Markdown script. In terms of it's effect on the reproducibility of our paper, Pandoc can be run from the command line on any operating system and lets the user convert markup files from one language to another (i.e Markup to HTML) or whatever format is convenient. Pandoc gives the readers and authors added flexibility to present their documents in whatever format is most presentable.
 
@@ -58,4 +58,4 @@ There was one significant issue I came across when I attempted to build the file
 After deleting the previous attempt to set up the local and remote repositories, setting up fresh ones, making an initial add and commit call, then running the above line of code in the terminal properly created the remote repository and linked all the correct files/filders. The addition of the -u tag implies I are forcing changes "Upstream", so I are essentially changing how Git views the history of our repository. The -f tag calls for a "Force Push" which overwrittes any conflicted files with the ones on my local repository.
 All in all, this project took roughly two days to complete and gave me a good understanding of how to properly structure and organize a project so that it could be understood and quickly reproduced by any reader with access to the same technology.
 
-![stat159Logo](images/stat159-logo.png)
+![stat159Logo](https://raw.githubusercontent.com/dakotalim/stat159-fall2016-project1/master/images/stat159-logo.png)
