@@ -1,4 +1,5 @@
 .PHONY : all clean
+
 all : paper.md paper.html
 
 paper.md : paper/sections/*.md
