@@ -7,4 +7,4 @@ There was one significant issue I came across when I attempted to build the file
 After deleting the previous attempt to set up the local and remote repositories, setting up fresh ones, making an initial add and commit call, then running the above line of code in the terminal properly created the remote repository and linked all the correct files/filders. The addition of the -u tag implies I are forcing changes "Upstream", so I are essentially changing how Git views the history of our repository. The -f tag calls for a "Force Push" which overwrittes any conflicted files with the ones on my local repository.
 All in all, this project took roughly two days to complete and gave me a good understanding of how to properly structure and organize a project so that it could be understood and quickly reproduced by any reader with access to the same technology.
 
-![stat159Logo](images/stat159-logo.png)
+![stat159Logo](/../images/stat159-logo.png)
