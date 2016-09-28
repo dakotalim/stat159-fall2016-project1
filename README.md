@@ -1,7 +1,8 @@
 # stat159-fall2016-project1
 ### Author: Dakota Lim
 This project is divided into the following sections
-*. Abstract
+
+* Abstract
 * Introduction
 * Discussion
 * Conclusions
